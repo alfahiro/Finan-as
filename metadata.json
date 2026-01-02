@@ -1,7 +1,5 @@
 {
-  "name": "Finanças Pro AI",
-  "description": "Uma plataforma completa de controle financeiro pessoal com insights inteligentes usando Gemini AI.",
-  "requestFramePermissions": [
-    "microphone"
-  ]
+  "name": "Finanças Pro AI (Python Edition)",
+  "description": "Controle financeiro pessoal avançado utilizando Streamlit, Pandas e Google Gemini AI.",
+  "requestFramePermissions": []
 }
